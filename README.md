@@ -152,3 +152,10 @@ Recommended:
 Selin Jogi Chittilappilly
 
 AI/ML | Computer Vision | Vision Language Models
+
+## 📷 Sample Image Used
+![strawberry](https://github.com/user-attachments/assets/4cc65ff3-ed6a-4806-b1c8-3e9afc538143)
+
+## 🖥️ Terminal Output
+<img width="1612" height="542" alt="image" src="https://github.com/user-attachments/assets/283831d1-727d-4930-a7d4-25d37a75ad6e" />
+
