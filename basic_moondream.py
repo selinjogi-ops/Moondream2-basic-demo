@@ -20,7 +20,7 @@ print("Model loaded successfully!\n")
 # -------------------------
 # 2️⃣ Load Image
 # -------------------------
-image_path = r"C:\Users\selin\Pictures\strawberry.jpg"
+image_path = "sample.jpg"
 try:
     image = Image.open(image_path).convert("RGB")
 except Exception as e:
@@ -46,4 +46,5 @@ while True:
             tokenizer
         )
     print("Model Answer:", answer)
+
     print("-" * 50)
