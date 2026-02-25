@@ -49,6 +49,7 @@ Moondream-2 can:
 moondream2-image-qa/
 
 │
+
 ├── basic_moondream.py
 
 ├── requirements.txt
